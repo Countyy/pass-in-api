@@ -1,0 +1,9 @@
+POST http://localhost:3333/events
+
+{
+  "Hello": "World"
+}
+
+###
+
+GET http://localhost:3333/events/2919d9fc-a0cf-477e-8d22-aafd05654c31
